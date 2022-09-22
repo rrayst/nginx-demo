@@ -2,3 +2,8 @@ resources:
 - ../base
 
 nameSuffix: -test
+
+images:
+- name: nginx
+  newName: nginx
+  newTag: "1.18"
